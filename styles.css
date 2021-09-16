@@ -126,8 +126,9 @@ footer{
    display: flex;
    justify-content: space-between;
    align-items: center;
-   width: 100%;
-   margin:0;
+   width: 90%;
+   
+   
 }
 .foot{
    font-size: 0.8rem;
